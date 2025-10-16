@@ -1,17 +1,12 @@
-<h1 align="center">👋 Olá, eu sou o David Braga!</h1>
-<p align="center">
-  <blockquote>“A tecnologia move o mundo — e eu quero fazer parte dessa transformação.” 🚀</blockquote>
-</p>
+<b>David Braga</b>
+
 
 ---
-
-### 💡 Sobre mim
-<p align="center">
   Sou apaixonado por tecnologia e inovação, com foco no desenvolvimento <b>web</b> e <b>mobile</b>. ✨<br>
   Atualmente, curso <b>Desenvolvimento de Software Multiplataforma</b> na <b>FATEC Miguel Reale</b> e trabalho no <b>DER-SP</b>,<br>
   atuando com suporte técnico, sistemas administrativos e projetos tecnológicos.<br> 
   Busco constantemente aprimorar minhas habilidades e explorar novas oportunidades!
-</p>
+
 
 ---
 
